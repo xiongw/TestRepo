@@ -26,6 +26,7 @@ public class VideoActivity extends Activity {
 		videoView.setMediaController(mediaController);
 		videoView.start();
 		
+		//Button btnRecordYours=(Button)findViewById(R.id.btnRecordYours);
 		Button btnRecordYours=(Button)findViewById(R.id.btnRecordYours);
 		btnRecordYours.setOnClickListener(new OnClickListener() {
 			
