@@ -21,5 +21,6 @@ public class ExpeditionVO {
 	}
 	public void setSite(String site) {
 		this.site = site;
+		//this.site = site;		
 	}
 }
