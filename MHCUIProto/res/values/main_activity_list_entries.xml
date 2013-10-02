@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="ui_array">
+        <item>View Pager</item>
+        <item>Tabs and ListView</item>
+        <item>Expeditions</item>
+        <item>Video Playback</item>
+        <item>Model Dialog</item>
+        <item>YouTube</item>
+    </string-array>    
+</resources>
